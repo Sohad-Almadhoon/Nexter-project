@@ -1,7 +1,7 @@
 {
-  "name": "trillo-project",
+  "name": "nexter-project",
   "version": "1.0.0",
-  "description": "Practising sass and master flexbox",
+  "description": "Practising sass and master grid",
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass --watch scss:assests/css"
@@ -11,9 +11,5 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.53.0"
-  },
-  "dependencies": {
-    "bootstrap": "^5.2.0-beta1",
-    "@fortawesome/fontawesome-free": "^6.1.1"
   }
 }
